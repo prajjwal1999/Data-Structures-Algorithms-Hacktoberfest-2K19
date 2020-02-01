@@ -7,6 +7,8 @@
         Remove = O(length)
         isEmpty = O(Alphabet)
  */
+#include<bits/stdc++.h>
+using namespace std;
  
 /* Structure of Node */
 struct Node
